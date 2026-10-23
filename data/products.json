@@ -1,0 +1,3392 @@
+[
+  {
+    "id": "naruto-01",
+    "title": "Naruto Uzumaki — Ember Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-01.jpg",
+    "alt": "Naruto Uzumaki — Ember Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "ember",
+      "konoha",
+      "naruto",
+      "ninja",
+      "portrait",
+      "shinobi",
+      "uzumaki"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-02",
+    "title": "Akatsuki — Crimson Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-02.jpg",
+    "alt": "Akatsuki — Crimson Portrait plexiglass wall art",
+    "tags": [
+      "akatsuki",
+      "anime",
+      "crimson",
+      "konoha",
+      "naruto",
+      "ninja",
+      "portrait",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-03",
+    "title": "Shinobi — Monochrome Eye Study",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-03.jpg",
+    "alt": "Shinobi — Monochrome Eye Study plexiglass wall art",
+    "tags": [
+      "anime",
+      "eye",
+      "konoha",
+      "monochrome",
+      "naruto",
+      "ninja",
+      "shinobi",
+      "study"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-04",
+    "title": "Naruto Uzumaki — Blue Rasengan",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-04.jpg",
+    "alt": "Naruto Uzumaki — Blue Rasengan plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "konoha",
+      "naruto",
+      "ninja",
+      "rasengan",
+      "shinobi",
+      "uzumaki"
+    ],
+    "featured": true
+  },
+  {
+    "id": "naruto-05",
+    "title": "Naruto Uzumaki — Orange Chakra",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-05.jpg",
+    "alt": "Naruto Uzumaki — Orange Chakra plexiglass wall art",
+    "tags": [
+      "anime",
+      "chakra",
+      "konoha",
+      "naruto",
+      "ninja",
+      "orange",
+      "shinobi",
+      "uzumaki"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-06",
+    "title": "Sasuke Uchiha — Violet Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-06.jpg",
+    "alt": "Sasuke Uchiha — Violet Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "konoha",
+      "naruto",
+      "ninja",
+      "portrait",
+      "sasuke",
+      "shinobi",
+      "uchiha",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-07",
+    "title": "Shinobi — Porcelain Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-07.jpg",
+    "alt": "Shinobi — Porcelain Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "konoha",
+      "naruto",
+      "ninja",
+      "porcelain",
+      "portrait",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-08",
+    "title": "Naruto Uzumaki — Nine-Tails Energy",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-08.jpg",
+    "alt": "Naruto Uzumaki — Nine-Tails Energy plexiglass wall art",
+    "tags": [
+      "anime",
+      "energy",
+      "konoha",
+      "naruto",
+      "nine",
+      "ninja",
+      "shinobi",
+      "tails",
+      "uzumaki"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-09",
+    "title": "Shinobi — Shadowed Close-Up",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-09.jpg",
+    "alt": "Shinobi — Shadowed Close-Up plexiglass wall art",
+    "tags": [
+      "anime",
+      "close",
+      "konoha",
+      "naruto",
+      "ninja",
+      "shadowed",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-10",
+    "title": "Sharingan — Violet Eye",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-10.jpg",
+    "alt": "Sharingan — Violet Eye plexiglass wall art",
+    "tags": [
+      "anime",
+      "eye",
+      "konoha",
+      "naruto",
+      "ninja",
+      "sharingan",
+      "shinobi",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-11",
+    "title": "Uchiha — Crimson Sharingan",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-11.jpg",
+    "alt": "Uchiha — Crimson Sharingan plexiglass wall art",
+    "tags": [
+      "anime",
+      "crimson",
+      "itachi",
+      "konoha",
+      "naruto",
+      "ninja",
+      "sharingan",
+      "shinobi",
+      "uchiha"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-12",
+    "title": "Shinobi — Purple Lightning",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-12.jpg",
+    "alt": "Shinobi — Purple Lightning plexiglass wall art",
+    "tags": [
+      "anime",
+      "konoha",
+      "lightning",
+      "naruto",
+      "ninja",
+      "purple",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-13",
+    "title": "Sasuke Uchiha — Ink Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-13.jpg",
+    "alt": "Sasuke Uchiha — Ink Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "ink",
+      "konoha",
+      "naruto",
+      "ninja",
+      "portrait",
+      "sasuke",
+      "shinobi",
+      "uchiha"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-14",
+    "title": "Konoha — Pink & Gold Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-14.jpg",
+    "alt": "Konoha — Pink & Gold Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "gold",
+      "konoha",
+      "naruto",
+      "ninja",
+      "pink",
+      "portrait",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-15",
+    "title": "Shinobi — Emerald Profile",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-15.jpg",
+    "alt": "Shinobi — Emerald Profile plexiglass wall art",
+    "tags": [
+      "anime",
+      "emerald",
+      "konoha",
+      "naruto",
+      "ninja",
+      "profile",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-16",
+    "title": "Sasuke Uchiha — Blue Form",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-16.jpg",
+    "alt": "Sasuke Uchiha — Blue Form plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "form",
+      "konoha",
+      "naruto",
+      "ninja",
+      "sasuke",
+      "shinobi",
+      "uchiha"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-17",
+    "title": "Gaara — Monochrome Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-17.jpg",
+    "alt": "Gaara — Monochrome Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "gaara",
+      "konoha",
+      "monochrome",
+      "naruto",
+      "ninja",
+      "portrait",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-18",
+    "title": "Sakura Haruno — Pink Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-18.jpg",
+    "alt": "Sakura Haruno — Pink Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "haruno",
+      "konoha",
+      "naruto",
+      "ninja",
+      "pink",
+      "portrait",
+      "sakura",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-19",
+    "title": "Sharingan — Eye Collection",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-19.jpg",
+    "alt": "Sharingan — Eye Collection plexiglass wall art",
+    "tags": [
+      "anime",
+      "collection",
+      "eye",
+      "konoha",
+      "naruto",
+      "ninja",
+      "sharingan",
+      "shinobi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "naruto-20",
+    "title": "Akatsuki — Organization Portrait",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "image": "assets/artwork/naruto-20.jpg",
+    "alt": "Akatsuki — Organization Portrait plexiglass wall art",
+    "tags": [
+      "akatsuki",
+      "anime",
+      "konoha",
+      "naruto",
+      "ninja",
+      "organization",
+      "portrait",
+      "shinobi"
+    ],
+    "featured": true
+  },
+  {
+    "id": "one-piece-01",
+    "title": "Roronoa Zoro — Wanted Poster",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-01.jpg",
+    "alt": "Roronoa Zoro — Wanted Poster plexiglass wall art",
+    "tags": [
+      "anime",
+      "one piece",
+      "pirate",
+      "poster",
+      "roronoa",
+      "wanted",
+      "zoro"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-02",
+    "title": "Trafalgar Law — Shadow Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-02.jpg",
+    "alt": "Trafalgar Law — Shadow Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "law",
+      "one piece",
+      "pirate",
+      "portrait",
+      "shadow",
+      "trafalgar"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-03",
+    "title": "One Piece — Neon Battle",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-03.jpg",
+    "alt": "One Piece — Neon Battle plexiglass wall art",
+    "tags": [
+      "anime",
+      "battle",
+      "neon",
+      "one",
+      "one piece",
+      "piece",
+      "pirate"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-04",
+    "title": "Portgas D. Ace — Flame Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-04.jpg",
+    "alt": "Portgas D. Ace — Flame Portrait plexiglass wall art",
+    "tags": [
+      "ace",
+      "anime",
+      "flame",
+      "one piece",
+      "pirate",
+      "portgas",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-05",
+    "title": "Monkey D. Luffy — Gear Fifth",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-05.jpg",
+    "alt": "Monkey D. Luffy — Gear Fifth plexiglass wall art",
+    "tags": [
+      "anime",
+      "fifth",
+      "gear",
+      "luffy",
+      "monkey",
+      "monkey d luffy",
+      "one piece",
+      "pirate"
+    ],
+    "featured": true
+  },
+  {
+    "id": "one-piece-06",
+    "title": "Trafalgar Law — Golden Accent",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-06.jpg",
+    "alt": "Trafalgar Law — Golden Accent plexiglass wall art",
+    "tags": [
+      "accent",
+      "anime",
+      "golden",
+      "law",
+      "one piece",
+      "pirate",
+      "trafalgar"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-07",
+    "title": "Roronoa Zoro — Monochrome Swordsman",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-07.jpg",
+    "alt": "Roronoa Zoro — Monochrome Swordsman plexiglass wall art",
+    "tags": [
+      "anime",
+      "monochrome",
+      "one piece",
+      "pirate",
+      "roronoa",
+      "swordsman",
+      "zoro"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-08",
+    "title": "Vinsmoke Sanji — Golden Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-08.jpg",
+    "alt": "Vinsmoke Sanji — Golden Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "golden",
+      "one piece",
+      "pirate",
+      "portrait",
+      "sanji",
+      "vinsmoke"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-09",
+    "title": "Roronoa Zoro — Emerald Aura",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-09.jpg",
+    "alt": "Roronoa Zoro — Emerald Aura plexiglass wall art",
+    "tags": [
+      "anime",
+      "aura",
+      "emerald",
+      "one piece",
+      "pirate",
+      "roronoa",
+      "zoro"
+    ],
+    "featured": true
+  },
+  {
+    "id": "one-piece-10",
+    "title": "Zoro — Green Energy",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-10.jpg",
+    "alt": "Zoro — Green Energy plexiglass wall art",
+    "tags": [
+      "anime",
+      "energy",
+      "green",
+      "one piece",
+      "pirate",
+      "zoro"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-11",
+    "title": "Trafalgar Law — Tattoo Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-11.jpg",
+    "alt": "Trafalgar Law — Tattoo Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "law",
+      "one piece",
+      "pirate",
+      "portrait",
+      "tattoo",
+      "trafalgar"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-12",
+    "title": "One Piece — Ink Swordsman",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-12.jpg",
+    "alt": "One Piece — Ink Swordsman plexiglass wall art",
+    "tags": [
+      "anime",
+      "ink",
+      "one",
+      "one piece",
+      "piece",
+      "pirate",
+      "swordsman"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-13",
+    "title": "Monkey D. Luffy — Orange Flame",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-13.jpg",
+    "alt": "Monkey D. Luffy — Orange Flame plexiglass wall art",
+    "tags": [
+      "anime",
+      "flame",
+      "luffy",
+      "monkey",
+      "monkey d luffy",
+      "one piece",
+      "orange",
+      "pirate"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-14",
+    "title": "Luffy — Straw Hat Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-14.jpg",
+    "alt": "Luffy — Straw Hat Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "hat",
+      "luffy",
+      "one piece",
+      "pirate",
+      "portrait",
+      "straw"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-15",
+    "title": "One Piece — Pirate Crew",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-15.jpg",
+    "alt": "One Piece — Pirate Crew plexiglass wall art",
+    "tags": [
+      "anime",
+      "crew",
+      "one",
+      "one piece",
+      "piece",
+      "pirate"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-16",
+    "title": "Monkey D. Luffy — Gear Fifth Comic Art",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-16.jpg",
+    "alt": "Monkey D. Luffy — Gear Fifth Comic Art plexiglass wall art",
+    "tags": [
+      "anime",
+      "art",
+      "comic",
+      "fifth",
+      "gear",
+      "luffy",
+      "monkey",
+      "monkey d luffy",
+      "one piece",
+      "pirate"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-17",
+    "title": "Roronoa Zoro — Wanted Edition",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-17.jpg",
+    "alt": "Roronoa Zoro — Wanted Edition plexiglass wall art",
+    "tags": [
+      "anime",
+      "edition",
+      "one piece",
+      "pirate",
+      "roronoa",
+      "wanted",
+      "zoro"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-18",
+    "title": "Luffy — Violet Aura",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-18.jpg",
+    "alt": "Luffy — Violet Aura plexiglass wall art",
+    "tags": [
+      "anime",
+      "aura",
+      "luffy",
+      "one piece",
+      "pirate",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-19",
+    "title": "Monkey D. Luffy — Wanted Poster",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-19.jpg",
+    "alt": "Monkey D. Luffy — Wanted Poster plexiglass wall art",
+    "tags": [
+      "anime",
+      "luffy",
+      "monkey",
+      "monkey d luffy",
+      "one piece",
+      "pirate",
+      "poster",
+      "wanted"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-piece-20",
+    "title": "One Piece — Crimson Character Portrait",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "image": "assets/artwork/one-piece-20.jpg",
+    "alt": "One Piece — Crimson Character Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "character",
+      "crimson",
+      "one",
+      "one piece",
+      "piece",
+      "pirate",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-01",
+    "title": "Saiyan Warrior — Crimson Form",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-01.jpg",
+    "alt": "Saiyan Warrior — Crimson Form plexiglass wall art",
+    "tags": [
+      "anime",
+      "crimson",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "form",
+      "saiyan",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-02",
+    "title": "Broly — Green Energy",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-02.jpg",
+    "alt": "Broly — Green Energy plexiglass wall art",
+    "tags": [
+      "anime",
+      "broly",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "energy",
+      "green"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-03",
+    "title": "Dragon Ball Z — Pink-Eyed Close-Up",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-03.jpg",
+    "alt": "Dragon Ball Z — Pink-Eyed Close-Up plexiglass wall art",
+    "tags": [
+      "anime",
+      "ball",
+      "close",
+      "dbz",
+      "dragon",
+      "dragon ball",
+      "dragon ball z",
+      "eyed",
+      "pink"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-04",
+    "title": "Goku — Ultra Instinct Battle",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-04.jpg",
+    "alt": "Goku — Ultra Instinct Battle plexiglass wall art",
+    "tags": [
+      "anime",
+      "battle",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "goku",
+      "instinct",
+      "kakarot",
+      "ultra"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-05",
+    "title": "Gohan — Power Unleashed",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-05.jpg",
+    "alt": "Gohan — Power Unleashed plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "gohan",
+      "power",
+      "unleashed"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-06",
+    "title": "Frieza — Violet Portrait",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-06.jpg",
+    "alt": "Frieza — Violet Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "frieza",
+      "portrait",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-07",
+    "title": "Broly — Legendary Power",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-07.jpg",
+    "alt": "Broly — Legendary Power plexiglass wall art",
+    "tags": [
+      "anime",
+      "broly",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "legendary",
+      "power"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-08",
+    "title": "Son Goku — Ultra Instinct",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-08.jpg",
+    "alt": "Son Goku — Ultra Instinct plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "goku",
+      "instinct",
+      "kakarot",
+      "son",
+      "ultra"
+    ],
+    "featured": true
+  },
+  {
+    "id": "dbz-09",
+    "title": "Goku & Vegeta — Golden Duo",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-09.jpg",
+    "alt": "Goku & Vegeta — Golden Duo plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "duo",
+      "goku",
+      "golden",
+      "kakarot",
+      "vegeta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-10",
+    "title": "Saiyan — White-Hair Transformation",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-10.jpg",
+    "alt": "Saiyan — White-Hair Transformation plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "hair",
+      "saiyan",
+      "transformation",
+      "white"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-11",
+    "title": "Cell — Green Bio-Android",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-11.jpg",
+    "alt": "Cell — Green Bio-Android plexiglass wall art",
+    "tags": [
+      "android",
+      "anime",
+      "bio",
+      "cell",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "green"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-12",
+    "title": "Dragon Ball Z — Emerald Close-Up",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-12.jpg",
+    "alt": "Dragon Ball Z — Emerald Close-Up plexiglass wall art",
+    "tags": [
+      "anime",
+      "ball",
+      "close",
+      "dbz",
+      "dragon",
+      "dragon ball",
+      "dragon ball z",
+      "emerald"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-13",
+    "title": "Son Goku — Orange Aura",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-13.jpg",
+    "alt": "Son Goku — Orange Aura plexiglass wall art",
+    "tags": [
+      "anime",
+      "aura",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "goku",
+      "kakarot",
+      "orange",
+      "son"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-14",
+    "title": "Cell — Monochrome Portrait",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-14.jpg",
+    "alt": "Cell — Monochrome Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "cell",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "monochrome",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-15",
+    "title": "Goku — Orange Combat Form",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-15.jpg",
+    "alt": "Goku — Orange Combat Form plexiglass wall art",
+    "tags": [
+      "anime",
+      "combat",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "form",
+      "goku",
+      "kakarot",
+      "orange"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-16",
+    "title": "Vegeta — Blue Form",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-16.jpg",
+    "alt": "Vegeta — Blue Form plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "form",
+      "vegeta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-17",
+    "title": "Broly — Legendary Berserker",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-17.jpg",
+    "alt": "Broly — Legendary Berserker plexiglass wall art",
+    "tags": [
+      "anime",
+      "berserker",
+      "broly",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "legendary"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-18",
+    "title": "Goku — Blue Energy",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-18.jpg",
+    "alt": "Goku — Blue Energy plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "energy",
+      "goku",
+      "kakarot"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-19",
+    "title": "Ultra Instinct — Lightning Form",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-19.jpg",
+    "alt": "Ultra Instinct — Lightning Form plexiglass wall art",
+    "tags": [
+      "anime",
+      "dbz",
+      "dragon ball",
+      "dragon ball z",
+      "form",
+      "instinct",
+      "lightning",
+      "ultra"
+    ],
+    "featured": false
+  },
+  {
+    "id": "dbz-20",
+    "title": "Dragon Ball Z — Neon Battle",
+    "category": "anime",
+    "subcategory": "Dragon Ball Z",
+    "image": "assets/artwork/dbz-20.jpg",
+    "alt": "Dragon Ball Z — Neon Battle plexiglass wall art",
+    "tags": [
+      "anime",
+      "ball",
+      "battle",
+      "dbz",
+      "dragon",
+      "dragon ball",
+      "dragon ball z",
+      "neon"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-01",
+    "title": "Anime — Crimson Mask Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-01.jpg",
+    "alt": "Anime — Crimson Mask Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "crimson",
+      "manga",
+      "mask",
+      "more anime",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-02",
+    "title": "Anime — Silver Blade",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-02.jpg",
+    "alt": "Anime — Silver Blade plexiglass wall art",
+    "tags": [
+      "anime",
+      "blade",
+      "manga",
+      "more anime",
+      "silver"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-03",
+    "title": "Anime — Scarlet Warrior",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-03.jpg",
+    "alt": "Anime — Scarlet Warrior plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "more anime",
+      "scarlet",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-04",
+    "title": "Jujutsu Kaisen — Satoru Gojo, Electric Blue",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-04.jpg",
+    "alt": "Jujutsu Kaisen — Satoru Gojo, Electric Blue plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "electric",
+      "gojo",
+      "jujutsu",
+      "kaisen",
+      "manga",
+      "more anime",
+      "satoru",
+      "satoru gojo"
+    ],
+    "featured": true
+  },
+  {
+    "id": "more-anime-05",
+    "title": "Anime — Emerald-Eyed Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-05.jpg",
+    "alt": "Anime — Emerald-Eyed Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "emerald",
+      "eyed",
+      "manga",
+      "more anime",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-06",
+    "title": "Anime — Pink-Haired Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-06.jpg",
+    "alt": "Anime — Pink-Haired Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "haired",
+      "manga",
+      "more anime",
+      "pink",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-07",
+    "title": "Anime — Blue Neon Close-Up",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-07.jpg",
+    "alt": "Anime — Blue Neon Close-Up plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "close",
+      "manga",
+      "more anime",
+      "neon"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-08",
+    "title": "Anime — Neon Battle Composition",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-08.jpg",
+    "alt": "Anime — Neon Battle Composition plexiglass wall art",
+    "tags": [
+      "anime",
+      "battle",
+      "composition",
+      "manga",
+      "more anime",
+      "neon"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-09",
+    "title": "Anime — Green Power Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-09.jpg",
+    "alt": "Anime — Green Power Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "green",
+      "manga",
+      "more anime",
+      "portrait",
+      "power"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-10",
+    "title": "Anime — Crimson Swordfighter",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-10.jpg",
+    "alt": "Anime — Crimson Swordfighter plexiglass wall art",
+    "tags": [
+      "anime",
+      "crimson",
+      "manga",
+      "more anime",
+      "swordfighter"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-11",
+    "title": "Attack on Titan — Wings of Freedom",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-11.jpg",
+    "alt": "Attack on Titan — Wings of Freedom plexiglass wall art",
+    "tags": [
+      "anime",
+      "aot",
+      "attack",
+      "freedom",
+      "manga",
+      "more anime",
+      "shingeki no kyojin",
+      "titan",
+      "wings"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-12",
+    "title": "Anime — Golden Warrior",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-12.jpg",
+    "alt": "Anime — Golden Warrior plexiglass wall art",
+    "tags": [
+      "anime",
+      "golden",
+      "manga",
+      "more anime",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-13",
+    "title": "Anime — Emerald Aura Hero",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-13.jpg",
+    "alt": "Anime — Emerald Aura Hero plexiglass wall art",
+    "tags": [
+      "anime",
+      "aura",
+      "emerald",
+      "hero",
+      "manga",
+      "more anime"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-14",
+    "title": "Anime — Amber-Eyed Close-Up",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-14.jpg",
+    "alt": "Anime — Amber-Eyed Close-Up plexiglass wall art",
+    "tags": [
+      "amber",
+      "anime",
+      "close",
+      "eyed",
+      "manga",
+      "more anime"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-15",
+    "title": "Anime — Inked Swordsman",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-15.jpg",
+    "alt": "Anime — Inked Swordsman plexiglass wall art",
+    "tags": [
+      "anime",
+      "inked",
+      "manga",
+      "more anime",
+      "swordsman"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-16",
+    "title": "Anime — Teal Shadow Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-16.jpg",
+    "alt": "Anime — Teal Shadow Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "more anime",
+      "portrait",
+      "shadow",
+      "teal"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-17",
+    "title": "Anime — Midnight Blue Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-17.jpg",
+    "alt": "Anime — Midnight Blue Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "manga",
+      "midnight",
+      "more anime",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-18",
+    "title": "Anime — Red Energy Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-18.jpg",
+    "alt": "Anime — Red Energy Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "energy",
+      "manga",
+      "more anime",
+      "portrait",
+      "red"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-19",
+    "title": "Attack on Titan — Titan-Eye Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-19.jpg",
+    "alt": "Attack on Titan — Titan-Eye Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "aot",
+      "attack",
+      "eye",
+      "manga",
+      "more anime",
+      "portrait",
+      "shingeki no kyojin",
+      "titan"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-20",
+    "title": "Anime — Green Lightning Hero",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-20.jpg",
+    "alt": "Anime — Green Lightning Hero plexiglass wall art",
+    "tags": [
+      "anime",
+      "green",
+      "hero",
+      "lightning",
+      "manga",
+      "more anime"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-21",
+    "title": "Anime — Violet Blade",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-21.jpg",
+    "alt": "Anime — Violet Blade plexiglass wall art",
+    "tags": [
+      "anime",
+      "blade",
+      "manga",
+      "more anime",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-22",
+    "title": "Anime — Monster Smile",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-22.jpg",
+    "alt": "Anime — Monster Smile plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "monster",
+      "more anime",
+      "smile"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-23",
+    "title": "Anime — Crimson-Eyed Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-23.jpg",
+    "alt": "Anime — Crimson-Eyed Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "crimson",
+      "eyed",
+      "manga",
+      "more anime",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-24",
+    "title": "Jujutsu Kaisen — Neon Smile",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-24.jpg",
+    "alt": "Jujutsu Kaisen — Neon Smile plexiglass wall art",
+    "tags": [
+      "anime",
+      "jujutsu",
+      "kaisen",
+      "manga",
+      "more anime",
+      "neon",
+      "smile"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-25",
+    "title": "Anime — Electric Blue Ninja",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-25.jpg",
+    "alt": "Anime — Electric Blue Ninja plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "electric",
+      "manga",
+      "more anime",
+      "ninja"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-26",
+    "title": "Anime — Split-Eye Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-26.jpg",
+    "alt": "Anime — Split-Eye Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "eye",
+      "manga",
+      "more anime",
+      "portrait",
+      "split"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-27",
+    "title": "Anime — Teal Energy Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-27.jpg",
+    "alt": "Anime — Teal Energy Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "energy",
+      "manga",
+      "more anime",
+      "portrait",
+      "teal"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-28",
+    "title": "Anime — Emerald Monster",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-28.jpg",
+    "alt": "Anime — Emerald Monster plexiglass wall art",
+    "tags": [
+      "anime",
+      "emerald",
+      "manga",
+      "monster",
+      "more anime"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-29",
+    "title": "Anime — Violet Mask",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-29.jpg",
+    "alt": "Anime — Violet Mask plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "mask",
+      "more anime",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-30",
+    "title": "Anime — Pink Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-30.jpg",
+    "alt": "Anime — Pink Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "more anime",
+      "pink",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-31",
+    "title": "Anime — Red Mask",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-31.jpg",
+    "alt": "Anime — Red Mask plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "mask",
+      "more anime",
+      "red"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-32",
+    "title": "Anime — White-Coat Swordsman",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-32.jpg",
+    "alt": "Anime — White-Coat Swordsman plexiglass wall art",
+    "tags": [
+      "anime",
+      "coat",
+      "manga",
+      "more anime",
+      "swordsman",
+      "white"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-33",
+    "title": "Anime — Violet Eye",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-33.jpg",
+    "alt": "Anime — Violet Eye plexiglass wall art",
+    "tags": [
+      "anime",
+      "eye",
+      "manga",
+      "more anime",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-34",
+    "title": "Anime — Mint-Green Hero",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-34.jpg",
+    "alt": "Anime — Mint-Green Hero plexiglass wall art",
+    "tags": [
+      "anime",
+      "green",
+      "hero",
+      "manga",
+      "mint",
+      "more anime"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-35",
+    "title": "Anime — Green Aura Warrior",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-35.jpg",
+    "alt": "Anime — Green Aura Warrior plexiglass wall art",
+    "tags": [
+      "anime",
+      "aura",
+      "green",
+      "manga",
+      "more anime",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-36",
+    "title": "Anime — Emerald Neon Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-36.jpg",
+    "alt": "Anime — Emerald Neon Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "emerald",
+      "manga",
+      "more anime",
+      "neon",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-37",
+    "title": "Anime — Monochrome Anime Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-37.jpg",
+    "alt": "Anime — Monochrome Anime Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "monochrome",
+      "more anime",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-38",
+    "title": "Anime — Violet Profile",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-38.jpg",
+    "alt": "Anime — Violet Profile plexiglass wall art",
+    "tags": [
+      "anime",
+      "manga",
+      "more anime",
+      "profile",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-39",
+    "title": "Anime — Blue Energy Silhouette",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-39.jpg",
+    "alt": "Anime — Blue Energy Silhouette plexiglass wall art",
+    "tags": [
+      "anime",
+      "blue",
+      "energy",
+      "manga",
+      "more anime",
+      "silhouette"
+    ],
+    "featured": false
+  },
+  {
+    "id": "more-anime-40",
+    "title": "Death Note — L Monochrome Portrait",
+    "category": "anime",
+    "subcategory": "More Anime",
+    "image": "assets/artwork/more-anime-40.jpg",
+    "alt": "Death Note — L Monochrome Portrait plexiglass wall art",
+    "tags": [
+      "anime",
+      "death",
+      "death note",
+      "l",
+      "manga",
+      "monochrome",
+      "more anime",
+      "note",
+      "portrait"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-01",
+    "title": "Arcane — Vi & Jinx",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-01.jpg",
+    "alt": "Arcane — Vi & Jinx plexiglass wall art",
+    "tags": [
+      "arcane",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "jinx",
+      "vi",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-02",
+    "title": "Gaming — Character Eyes Collage",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-02.jpg",
+    "alt": "Gaming — Character Eyes Collage plexiglass wall art",
+    "tags": [
+      "character",
+      "collage",
+      "eyes",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-03",
+    "title": "Fantasy Gaming — Hooded Silhouette",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-03.jpg",
+    "alt": "Fantasy Gaming — Hooded Silhouette plexiglass wall art",
+    "tags": [
+      "fantasy",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "hooded",
+      "silhouette",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-04",
+    "title": "Cyberpunk 2077 — V Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-04.jpg",
+    "alt": "Cyberpunk 2077 — V Portrait plexiglass wall art",
+    "tags": [
+      "2077",
+      "cyberpunk",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "night city",
+      "portrait",
+      "video game"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gaming-05",
+    "title": "Cyberpunk 2077 — Female Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-05.jpg",
+    "alt": "Cyberpunk 2077 — Female Portrait plexiglass wall art",
+    "tags": [
+      "2077",
+      "cyberpunk",
+      "female",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "night city",
+      "portrait",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-06",
+    "title": "Game Over — Minimal Typography",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-06.jpg",
+    "alt": "Game Over — Minimal Typography plexiglass wall art",
+    "tags": [
+      "game",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "minimal",
+      "over",
+      "typography",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-07",
+    "title": "Fantasy RPG — Swordmaster",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-07.jpg",
+    "alt": "Fantasy RPG — Swordmaster plexiglass wall art",
+    "tags": [
+      "fantasy",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "rpg",
+      "swordmaster",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-08",
+    "title": "Grand Theft Auto V — Sunset Duo",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-08.jpg",
+    "alt": "Grand Theft Auto V — Sunset Duo plexiglass wall art",
+    "tags": [
+      "auto",
+      "duo",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "grand",
+      "grand theft auto",
+      "gta",
+      "gta v",
+      "sunset",
+      "theft",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-09",
+    "title": "Neon Controller — Cyber Arcade",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-09.jpg",
+    "alt": "Neon Controller — Cyber Arcade plexiglass wall art",
+    "tags": [
+      "arcade",
+      "controller",
+      "cyber",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "neon",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-10",
+    "title": "Sci-Fi Gaming — Armored Warrior",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-10.jpg",
+    "alt": "Sci-Fi Gaming — Armored Warrior plexiglass wall art",
+    "tags": [
+      "armored",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "sci",
+      "video game",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-11",
+    "title": "Cyberpunk — Neon Blade",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-11.jpg",
+    "alt": "Cyberpunk — Neon Blade plexiglass wall art",
+    "tags": [
+      "blade",
+      "cyberpunk",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "neon",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-12",
+    "title": "Arcane — Neon Character Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-12.jpg",
+    "alt": "Arcane — Neon Character Portrait plexiglass wall art",
+    "tags": [
+      "arcane",
+      "character",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "jinx",
+      "neon",
+      "portrait",
+      "vi",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-13",
+    "title": "Gaming — Violet-Hooded Agent",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-13.jpg",
+    "alt": "Gaming — Violet-Hooded Agent plexiglass wall art",
+    "tags": [
+      "agent",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "hooded",
+      "video game",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-14",
+    "title": "Gaming — Heroes Collage",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-14.jpg",
+    "alt": "Gaming — Heroes Collage plexiglass wall art",
+    "tags": [
+      "collage",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "heroes",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-15",
+    "title": "Gaming — Emerald Warrior",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-15.jpg",
+    "alt": "Gaming — Emerald Warrior plexiglass wall art",
+    "tags": [
+      "emerald",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "video game",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-16",
+    "title": "Cyberpunk — Glowing-Eyes Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-16.jpg",
+    "alt": "Cyberpunk — Glowing-Eyes Portrait plexiglass wall art",
+    "tags": [
+      "cyberpunk",
+      "eyes",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "glowing",
+      "portrait",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-17",
+    "title": "Grand Theft Auto V — Franklin Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-17.jpg",
+    "alt": "Grand Theft Auto V — Franklin Portrait plexiglass wall art",
+    "tags": [
+      "auto",
+      "franklin",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "grand",
+      "grand theft auto",
+      "gta",
+      "gta v",
+      "portrait",
+      "theft",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-18",
+    "title": "Gaming — Scarlet-Haired Hero",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-18.jpg",
+    "alt": "Gaming — Scarlet-Haired Hero plexiglass wall art",
+    "tags": [
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "haired",
+      "hero",
+      "scarlet",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-19",
+    "title": "The Witcher — Geralt of Rivia",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-19.jpg",
+    "alt": "The Witcher — Geralt of Rivia plexiglass wall art",
+    "tags": [
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "geralt",
+      "rivia",
+      "the",
+      "video game",
+      "witcher"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gaming-20",
+    "title": "Fantasy Gaming — Scarlet Warrior",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-20.jpg",
+    "alt": "Fantasy Gaming — Scarlet Warrior plexiglass wall art",
+    "tags": [
+      "fantasy",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "scarlet",
+      "video game",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-21",
+    "title": "Gaming — Neon Battle",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-21.jpg",
+    "alt": "Gaming — Neon Battle plexiglass wall art",
+    "tags": [
+      "battle",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "neon",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-22",
+    "title": "Cyberpunk — Crimson Warrior",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-22.jpg",
+    "alt": "Cyberpunk — Crimson Warrior plexiglass wall art",
+    "tags": [
+      "crimson",
+      "cyberpunk",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "video game",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-23",
+    "title": "Grand Theft Auto V — Character Collage",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-23.jpg",
+    "alt": "Grand Theft Auto V — Character Collage plexiglass wall art",
+    "tags": [
+      "auto",
+      "character",
+      "collage",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "grand",
+      "grand theft auto",
+      "gta",
+      "gta v",
+      "theft",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-24",
+    "title": "Grand Theft Auto V — Pop-Art Edition",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-24.jpg",
+    "alt": "Grand Theft Auto V — Pop-Art Edition plexiglass wall art",
+    "tags": [
+      "art",
+      "auto",
+      "edition",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "grand",
+      "grand theft auto",
+      "gta",
+      "gta v",
+      "pop",
+      "theft",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-25",
+    "title": "The Witcher — Geralt, Monochrome",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-25.jpg",
+    "alt": "The Witcher — Geralt, Monochrome plexiglass wall art",
+    "tags": [
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "geralt",
+      "monochrome",
+      "the",
+      "video game",
+      "witcher"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-26",
+    "title": "Gaming — Electric Mask",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-26.jpg",
+    "alt": "Gaming — Electric Mask plexiglass wall art",
+    "tags": [
+      "electric",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "mask",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-27",
+    "title": "Love or Die — Neon Typography",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-27.jpg",
+    "alt": "Love or Die — Neon Typography plexiglass wall art",
+    "tags": [
+      "die",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "love",
+      "neon",
+      "typography",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-28",
+    "title": "Street Fighter — Ryu",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-28.jpg",
+    "alt": "Street Fighter — Ryu plexiglass wall art",
+    "tags": [
+      "fighter",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "ryu",
+      "street",
+      "street fighter",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-29",
+    "title": "Grand Theft Auto: San Andreas — Cover Art",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-29.jpg",
+    "alt": "Grand Theft Auto: San Andreas — Cover Art plexiglass wall art",
+    "tags": [
+      "andreas",
+      "art",
+      "auto",
+      "cover",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "grand",
+      "san",
+      "theft",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-30",
+    "title": "Cyberpunk 2077 — Neon Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-30.jpg",
+    "alt": "Cyberpunk 2077 — Neon Portrait plexiglass wall art",
+    "tags": [
+      "2077",
+      "cyberpunk",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "neon",
+      "night city",
+      "portrait",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-31",
+    "title": "Gaming — Crimson Armor",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-31.jpg",
+    "alt": "Gaming — Crimson Armor plexiglass wall art",
+    "tags": [
+      "armor",
+      "crimson",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-32",
+    "title": "Gaming — Futuristic Character",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-32.jpg",
+    "alt": "Gaming — Futuristic Character plexiglass wall art",
+    "tags": [
+      "character",
+      "futuristic",
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gaming-33",
+    "title": "Gaming — Red-Haired Portrait",
+    "category": "gaming",
+    "subcategory": "Gaming",
+    "image": "assets/artwork/gaming-33.jpg",
+    "alt": "Gaming — Red-Haired Portrait plexiglass wall art",
+    "tags": [
+      "game art",
+      "game poster",
+      "gamer",
+      "gaming",
+      "haired",
+      "portrait",
+      "red",
+      "video game"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-01",
+    "title": "Game of Thrones — Winter Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-01.jpg",
+    "alt": "Game of Thrones — Winter Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "game",
+      "game of thrones",
+      "got",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "television",
+      "thrones",
+      "tv",
+      "winter"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-02",
+    "title": "Peaky Blinders — Tommy Shelby, Monochrome",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-02.jpg",
+    "alt": "Peaky Blinders — Tommy Shelby, Monochrome plexiglass wall art",
+    "tags": [
+      "blinders",
+      "cinema",
+      "film",
+      "monochrome",
+      "movie",
+      "movies & series",
+      "peaky",
+      "peaky blinders",
+      "series",
+      "shelby",
+      "television",
+      "tommy",
+      "tommy shelby",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-03",
+    "title": "The Flash — Scarlet Lightning",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-03.jpg",
+    "alt": "The Flash — Scarlet Lightning plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "flash",
+      "lightning",
+      "movie",
+      "movies & series",
+      "scarlet",
+      "series",
+      "television",
+      "the",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-04",
+    "title": "The Joker — Laughing in Neon Green",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-04.jpg",
+    "alt": "The Joker — Laughing in Neon Green plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "green",
+      "joker",
+      "laughing",
+      "movie",
+      "movies & series",
+      "neon",
+      "series",
+      "television",
+      "the",
+      "tv"
+    ],
+    "featured": true
+  },
+  {
+    "id": "movies-series-05",
+    "title": "John Wick — Shadow Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-05.jpg",
+    "alt": "John Wick — Shadow Portrait plexiglass wall art",
+    "tags": [
+      "baba yaga",
+      "cinema",
+      "film",
+      "john",
+      "john wick",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "shadow",
+      "television",
+      "tv",
+      "wick"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-06",
+    "title": "The Joker — Blue Shadow",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-06.jpg",
+    "alt": "The Joker — Blue Shadow plexiglass wall art",
+    "tags": [
+      "blue",
+      "cinema",
+      "film",
+      "joker",
+      "movie",
+      "movies & series",
+      "series",
+      "shadow",
+      "television",
+      "the",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-07",
+    "title": "Game of Thrones — Ice-Cold Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-07.jpg",
+    "alt": "Game of Thrones — Ice-Cold Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "cold",
+      "film",
+      "game",
+      "game of thrones",
+      "got",
+      "ice",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "television",
+      "thrones",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-08",
+    "title": "The Joker — Violet Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-08.jpg",
+    "alt": "The Joker — Violet Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "joker",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "television",
+      "the",
+      "tv",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-09",
+    "title": "House of the Dragon — Blood & Valyria",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-09.jpg",
+    "alt": "House of the Dragon — Blood & Valyria plexiglass wall art",
+    "tags": [
+      "blood",
+      "cinema",
+      "dragon",
+      "film",
+      "house",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "the",
+      "tv",
+      "valyria"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-10",
+    "title": "Game of Thrones — Throne of Ice",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-10.jpg",
+    "alt": "Game of Thrones — Throne of Ice plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "game",
+      "game of thrones",
+      "got",
+      "ice",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "throne",
+      "thrones",
+      "tv"
+    ],
+    "featured": true
+  },
+  {
+    "id": "movies-series-11",
+    "title": "Breaking Bad — Walter White, Classic Poster",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-11.jpg",
+    "alt": "Breaking Bad — Walter White, Classic Poster plexiglass wall art",
+    "tags": [
+      "bad",
+      "breaking",
+      "breaking bad",
+      "cinema",
+      "classic",
+      "film",
+      "movie",
+      "movies & series",
+      "poster",
+      "series",
+      "television",
+      "tv",
+      "walter",
+      "walter white",
+      "white"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-12",
+    "title": "Avatar — Na’vi Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-12.jpg",
+    "alt": "Avatar — Na’vi Portrait plexiglass wall art",
+    "tags": [
+      "avatar",
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "na vi",
+      "portrait",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-13",
+    "title": "Star Wars — Dark Side Silhouette",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-13.jpg",
+    "alt": "Star Wars — Dark Side Silhouette plexiglass wall art",
+    "tags": [
+      "cinema",
+      "dark",
+      "film",
+      "movie",
+      "movies & series",
+      "series",
+      "side",
+      "silhouette",
+      "star",
+      "star wars",
+      "television",
+      "tv",
+      "wars"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-14",
+    "title": "Breaking Bad — Graphic Red Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-14.jpg",
+    "alt": "Breaking Bad — Graphic Red Portrait plexiglass wall art",
+    "tags": [
+      "bad",
+      "breaking",
+      "breaking bad",
+      "cinema",
+      "film",
+      "graphic",
+      "movie",
+      "movies & series",
+      "portrait",
+      "red",
+      "series",
+      "television",
+      "tv",
+      "walter white"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-15",
+    "title": "Breaking Bad — “I Am the One Who Knocks”",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-15.jpg",
+    "alt": "Breaking Bad — “I Am the One Who Knocks” plexiglass wall art",
+    "tags": [
+      "bad",
+      "breaking",
+      "breaking bad",
+      "cinema",
+      "film",
+      "knocks",
+      "movie",
+      "movies & series",
+      "one",
+      "series",
+      "television",
+      "the",
+      "tv",
+      "walter white",
+      "who"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-16",
+    "title": "Spider-Man — Classic Red & Blue",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-16.jpg",
+    "alt": "Spider-Man — Classic Red & Blue plexiglass wall art",
+    "tags": [
+      "blue",
+      "cinema",
+      "classic",
+      "film",
+      "man",
+      "movie",
+      "movies & series",
+      "red",
+      "series",
+      "spider",
+      "spider man",
+      "spiderman",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-17",
+    "title": "Cinema — Born on Fire",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-17.jpg",
+    "alt": "Cinema — Born on Fire plexiglass wall art",
+    "tags": [
+      "born",
+      "cinema",
+      "film",
+      "fire",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-18",
+    "title": "Sci-Fi Cinema — Violet Flight",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-18.jpg",
+    "alt": "Sci-Fi Cinema — Violet Flight plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "flight",
+      "movie",
+      "movies & series",
+      "sci",
+      "series",
+      "television",
+      "tv",
+      "violet"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-19",
+    "title": "Peaky Blinders — Tommy Shelby, Red Edition",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-19.jpg",
+    "alt": "Peaky Blinders — Tommy Shelby, Red Edition plexiglass wall art",
+    "tags": [
+      "blinders",
+      "cinema",
+      "edition",
+      "film",
+      "movie",
+      "movies & series",
+      "peaky",
+      "peaky blinders",
+      "red",
+      "series",
+      "shelby",
+      "television",
+      "tommy",
+      "tommy shelby",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-20",
+    "title": "Iron Man — Arc Reactor Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-20.jpg",
+    "alt": "Iron Man — Arc Reactor Portrait plexiglass wall art",
+    "tags": [
+      "arc",
+      "cinema",
+      "film",
+      "iron",
+      "iron man",
+      "man",
+      "movie",
+      "movies & series",
+      "portrait",
+      "reactor",
+      "series",
+      "television",
+      "tony stark",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-21",
+    "title": "Game of Thrones — Westeros",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-21.jpg",
+    "alt": "Game of Thrones — Westeros plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "game",
+      "game of thrones",
+      "got",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "thrones",
+      "tv",
+      "westeros"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-22",
+    "title": "Peaky Blinders — Gentleman Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-22.jpg",
+    "alt": "Peaky Blinders — Gentleman Portrait plexiglass wall art",
+    "tags": [
+      "blinders",
+      "cinema",
+      "film",
+      "gentleman",
+      "movie",
+      "movies & series",
+      "peaky",
+      "peaky blinders",
+      "portrait",
+      "series",
+      "television",
+      "tommy shelby",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-23",
+    "title": "Frankenstein — Neon Green",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-23.jpg",
+    "alt": "Frankenstein — Neon Green plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "frankenstein",
+      "green",
+      "movie",
+      "movies & series",
+      "neon",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-24",
+    "title": "Spider-Man — Multiverse Mask",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-24.jpg",
+    "alt": "Spider-Man — Multiverse Mask plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "man",
+      "mask",
+      "movie",
+      "movies & series",
+      "multiverse",
+      "series",
+      "spider",
+      "spider man",
+      "spiderman",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-25",
+    "title": "Game of Thrones — Black Knight",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-25.jpg",
+    "alt": "Game of Thrones — Black Knight plexiglass wall art",
+    "tags": [
+      "black",
+      "cinema",
+      "film",
+      "game",
+      "game of thrones",
+      "got",
+      "knight",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "thrones",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-26",
+    "title": "Fantasy Series — Shadowed Hero",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-26.jpg",
+    "alt": "Fantasy Series — Shadowed Hero plexiglass wall art",
+    "tags": [
+      "cinema",
+      "fantasy",
+      "film",
+      "hero",
+      "movie",
+      "movies & series",
+      "series",
+      "shadowed",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-27",
+    "title": "Breaking Bad — Walter White, Red Poster",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-27.jpg",
+    "alt": "Breaking Bad — Walter White, Red Poster plexiglass wall art",
+    "tags": [
+      "bad",
+      "breaking",
+      "breaking bad",
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "poster",
+      "red",
+      "series",
+      "television",
+      "tv",
+      "walter",
+      "walter white",
+      "white"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-28",
+    "title": "Iron Man — Crimson Armor",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-28.jpg",
+    "alt": "Iron Man — Crimson Armor plexiglass wall art",
+    "tags": [
+      "armor",
+      "cinema",
+      "crimson",
+      "film",
+      "iron",
+      "iron man",
+      "man",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "tony stark",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-29",
+    "title": "Peaky Blinders — Red Suit Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-29.jpg",
+    "alt": "Peaky Blinders — Red Suit Portrait plexiglass wall art",
+    "tags": [
+      "blinders",
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "peaky",
+      "peaky blinders",
+      "portrait",
+      "red",
+      "series",
+      "suit",
+      "television",
+      "tommy shelby",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-30",
+    "title": "Avatar — Blue Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-30.jpg",
+    "alt": "Avatar — Blue Portrait plexiglass wall art",
+    "tags": [
+      "avatar",
+      "blue",
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "na vi",
+      "portrait",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-31",
+    "title": "Venom — Symbiote Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-31.jpg",
+    "alt": "Venom — Symbiote Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "symbiote",
+      "television",
+      "tv",
+      "venom"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-32",
+    "title": "The Batman — Gotham Noir",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-32.jpg",
+    "alt": "The Batman — Gotham Noir plexiglass wall art",
+    "tags": [
+      "batman",
+      "cinema",
+      "film",
+      "gotham",
+      "movie",
+      "movies & series",
+      "noir",
+      "series",
+      "television",
+      "the",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-33",
+    "title": "Cinema — Neon Hero",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-33.jpg",
+    "alt": "Cinema — Neon Hero plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "hero",
+      "movie",
+      "movies & series",
+      "neon",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-34",
+    "title": "Avatar — Ocean Blue Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-34.jpg",
+    "alt": "Avatar — Ocean Blue Portrait plexiglass wall art",
+    "tags": [
+      "avatar",
+      "blue",
+      "cinema",
+      "film",
+      "movie",
+      "movies & series",
+      "na vi",
+      "ocean",
+      "portrait",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-35",
+    "title": "John Wick — Baba Yaga",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-35.jpg",
+    "alt": "John Wick — Baba Yaga plexiglass wall art",
+    "tags": [
+      "baba",
+      "baba yaga",
+      "cinema",
+      "film",
+      "john",
+      "john wick",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "tv",
+      "wick",
+      "yaga"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-36",
+    "title": "The Joker — Midnight Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-36.jpg",
+    "alt": "The Joker — Midnight Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "film",
+      "joker",
+      "midnight",
+      "movie",
+      "movies & series",
+      "portrait",
+      "series",
+      "television",
+      "the",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-37",
+    "title": "Movies & Series — Blue-Eyed Close-Up",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-37.jpg",
+    "alt": "Movies & Series — Blue-Eyed Close-Up plexiglass wall art",
+    "tags": [
+      "blue",
+      "cinema",
+      "close",
+      "eyed",
+      "film",
+      "movie",
+      "movies",
+      "movies & series",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-38",
+    "title": "Fantasy Series — Dark Warrior",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-38.jpg",
+    "alt": "Fantasy Series — Dark Warrior plexiglass wall art",
+    "tags": [
+      "cinema",
+      "dark",
+      "fantasy",
+      "film",
+      "movie",
+      "movies & series",
+      "series",
+      "television",
+      "tv",
+      "warrior"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-39",
+    "title": "Movies & Series — Cinematic Portrait",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-39.jpg",
+    "alt": "Movies & Series — Cinematic Portrait plexiglass wall art",
+    "tags": [
+      "cinema",
+      "cinematic",
+      "film",
+      "movie",
+      "movies",
+      "movies & series",
+      "portrait",
+      "series",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  },
+  {
+    "id": "movies-series-40",
+    "title": "Movie Art — Crimson Silhouette",
+    "category": "movies",
+    "subcategory": "Movies & Series",
+    "image": "assets/artwork/movies-series-40.jpg",
+    "alt": "Movie Art — Crimson Silhouette plexiglass wall art",
+    "tags": [
+      "art",
+      "cinema",
+      "crimson",
+      "film",
+      "movie",
+      "movies & series",
+      "series",
+      "silhouette",
+      "television",
+      "tv"
+    ],
+    "featured": false
+  }
+]

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fbfaf8">
+  <meta name="description" content="Discover premium plexiglass wall art inspired by anime, gaming, movies and series — or create a design that feels completely yours with AURA WALL Morocco.">
+  <meta property="og:title" content="AURA WALL — Art that feels like you">
+  <meta property="og:description" content="Premium plexiglass wall art for anime, gaming, movies, series and personal stories.">
+  <meta property="og:type" content="website">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <title>AURA WALL — Art that feels like you</title>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Store",
+    "name":"AURA WALL",
+    "description":"Premium plexiglass wall art inspired by anime, gaming, movies, series and personalized designs.",
+    "areaServed":"Morocco",
+    "contactPoint":{"@type":"ContactPoint","contactType":"customer enquiries","url":"https://wa.me/212627025271"}
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skip">Skip to content</a>
+  <div class="announcement" aria-label="Brand announcement">
+    <span class="announcement-dot" aria-hidden="true"></span>
+    <span data-i18n="announcement">MAKE YOUR WALLS FEEL LIKE YOU</span>
+    <span class="announcement-divider">✳</span>
+    <span data-i18n="announcement2">PREMIUM PLEXIGLASS ART · MADE FOR YOUR SPACE</span>
+  </div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#/" aria-label="AURA WALL homepage">
+        <img src="assets/aurawall-logo.png" width="2170" height="725" alt="AURA WALL" fetchpriority="high">
+      </a>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#/anime" data-i18n="navAnime">Anime</a>
+        <a href="#/gaming" data-i18n="navGaming">Gaming</a>
+        <a href="#/movies-series" data-i18n="navMovies">Movies & Series</a>
+        <a href="#/personalized-art" data-i18n="navCustom">Personalized Art <span class="nav-spark">✳</span></a>
+      </nav>
+      <div class="header-actions">
+        <div class="header-search-wrap">
+          <form class="header-search" id="headerSearch" role="search">
+            <button type="submit" class="search-icon" aria-label="Search artwork"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 4.5 4.5"></path></svg></button>
+            <input id="searchInput" type="search" name="q" autocomplete="off" placeholder="Find your favourite…" aria-label="Search artworks" data-i18n-placeholder="searchPlaceholder">
+          </form>
+          <div id="searchSuggestions" class="search-suggestions" hidden></div>
+        </div>
+        <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch language">AR <span class="language-separator">/</span> EN</button>
+        <button id="mobileMenuToggle" class="mobile-menu-toggle" type="button" aria-expanded="false" aria-controls="mobileNav" aria-label="Open menu"><span></span><span></span></button>
+      </div>
+    </div>
+    <nav id="mobileNav" class="mobile-nav" aria-label="Mobile navigation" hidden>
+      <a href="#/anime" data-i18n="navAnime">Anime</a>
+      <a href="#/gaming" data-i18n="navGaming">Gaming</a>
+      <a href="#/movies-series" data-i18n="navMovies">Movies & Series</a>
+      <a href="#/personalized-art" data-i18n="navCustom">Personalized Art</a>
+    </nav>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div class="page-loading" aria-live="polite"><span class="loading-mark">A.</span><span data-i18n="loading">Setting the scene…</span></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-top">
+      <div class="footer-brand-block">
+        <a class="footer-logo" href="#/" aria-label="AURA WALL homepage"><img src="assets/aurawall-logo.png" alt="AURA WALL" width="2170" height="725" loading="lazy"></a>
+        <p data-i18n="footerBlurb">Art for the things that make you, you.</p>
+      </div>
+      <div class="footer-column"><h2 data-i18n="footerExplore">Explore</h2><a href="#/anime" data-i18n="navAnime">Anime</a><a href="#/gaming" data-i18n="navGaming">Gaming</a><a href="#/movies-series" data-i18n="navMovies">Movies & Series</a><a href="#/personalized-art" data-i18n="navCustom">Personalized Art</a></div>
+      <div class="footer-column"><h2 data-i18n="footerHaveIdea">Got an idea?</h2><p data-i18n="footerCustomText">Tell us what you imagine. Let’s make it wall-worthy.</p><a class="footer-contact" href="https://wa.me/212627025271" target="_blank" rel="noopener noreferrer"><span data-i18n="talkWhatsApp">Talk to us on WhatsApp</span><span aria-hidden="true">↗</span></a></div>
+    </div>
+    <div class="footer-bottom"><span>© <span id="currentYear"></span> AURA WALL</span><span data-i18n="footerMade">Made for your space, in Morocco.</span><a href="#/" data-i18n="backTop">Back to the top ↑</a></div>
+  </footer>
+
+  <div id="productModal" class="modal-backdrop" hidden>
+    <section class="product-modal" role="dialog" aria-modal="true" aria-labelledby="modalProductTitle">
+      <button type="button" class="modal-close" aria-label="Close artwork details" data-close-modal>×</button>
+      <div id="productModalContent"></div>
+    </section>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
